@@ -1,7 +1,7 @@
  Hi 👋 My name is Abdulmutalip
 =============================
 
-Jr. Java Developer
+JAVA SAP CX DEVELOPER
 ------------------
 
 Karadeniz Technical Unv. I am an Information Technologies graduate. I am climbing the career steps to become a Java Developer.
