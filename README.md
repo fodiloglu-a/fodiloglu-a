@@ -1,7 +1,7 @@
  Hi 👋 My name is Abdulmutalip
 =============================
 
-JAVA SAP CX DEVELOPER
+JAVA DEVELOPER (SAP HYBRISH)
 ------------------
 
 Karadeniz Technical Unv. I am an Information Technologies graduate. I am climbing the career steps to become a Java Developer.
