@@ -8,7 +8,7 @@ Karadeniz Technical Unv. I am an Information Technologies graduate. I am climbin
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mutalip.fodiloglu@gmail.com](mailto:mutalip.fodiloglu@gmail.com)
-* 🚀  I'm currently working on ENOCA COMPANY
+* 🚀   
 * 🧠  I am continuously developing myself in the fields of Java, Hybris, and E-commerce.
 * 🤝  I'm open to collaborating on Java Developer
 
